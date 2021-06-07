@@ -1,0 +1,13 @@
+.container-grigio{
+    background-color: rgb(194, 194, 194);
+    padding: 20px;
+}
+
+.container-verde{
+    background-color: rgb(95, 197, 95);
+    padding: 20px;
+}
+
+h4{
+    display: inline;
+}
